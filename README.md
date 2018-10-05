@@ -42,6 +42,6 @@ response.
 Application Files
 -----------------
 
-[HelloBlockchain.json](HelloBlockchain.json)
+[HelloBlockchain.json](https://raw.githubusercontent.com/caleteeter/hello-blockchain/master/HelloBlockchain.json)
 
-[HelloBlockchain.sol](HelloBlockchain.sol)
+[HelloBlockchain.sol](https://raw.githubusercontent.com/caleteeter/hello-blockchain/master/contracts/HelloBlockchain.sol)
