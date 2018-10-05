@@ -13,8 +13,8 @@ Application Roles
 
 | Name  |  Description |
 |------------|-------------------------------------------------------------------------------------------|
-| Requestor  |  The party that initiates the "Hello blockchain!" request                                 |
-| Responder  |  The party that responds to the Requestor |
+| __Requestor__  |  The party that initiates the "Hello blockchain!" request                                 |
+| __Responder__  |  The party that responds to the Requestor |
 
 
 States 
@@ -22,8 +22,8 @@ States
 
 | Name  |  Description |
 |----------|-------------------------------------------------------------------------------------------|
-| Request  | The state that occurs when a request has been made.  |
-| Respond  | The state that occurs after a response has been made to the request.  |
+| __Request__  | The state that occurs when a request has been made.  |
+| __Respond__  | The state that occurs after a response has been made to the request.  |
 
  
 
