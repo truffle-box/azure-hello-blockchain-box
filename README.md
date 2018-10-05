@@ -8,6 +8,8 @@ The Hello Blockchain application expresses a workflow between a person sending
 a request and a person responding to the request.  The state transition diagram
 below shows the interactions between the states in this workflow. 
 
+<br/>
+
 Application Roles 
 ------------------
 
@@ -16,6 +18,7 @@ Application Roles
 | __Requestor__  |  The party that initiates the "Hello blockchain!" request                                 |
 | __Responder__  |  The party that responds to the Requestor |
 
+<br/>
 
 States 
 -------
@@ -25,7 +28,7 @@ States
 | __Request__  | The state that occurs when a request has been made.  |
 | __Respond__  | The state that occurs after a response has been made to the request.  |
 
- 
+<br/>
 
 Workflow Details
 ----------------
@@ -38,6 +41,8 @@ state when a Responder sends a response.  The instance transitions back again to
 the Request state when the Requestor makes another request.  These transitions
 continue for as long as a Requestor sends a request and a Responder sends a
 response. 
+
+<br/>
 
 Application Files
 -----------------
